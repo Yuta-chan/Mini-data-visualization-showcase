@@ -9,9 +9,9 @@ Watch a detailed explanation of the project and its visualizations in the video 
 
 ## Repository Contents
 
-- `sankey_diagram.py`: Python script to generate a Sankey diagram using `Plotly`.
-- `contour_plot.py`: Python script to create a contour plot using `Matplotlib`.
-- `force_directed_graph.py`: Python script to build a force-directed graph using `NetworkX` and `Matplotlib`.
+- `sankey_diagram_example.py`: Python script to generate a Sankey diagram using `Plotly`.
+- `contour_plot_example.py`: Python script to create a contour plot using `Matplotlib`.
+- `force_directed_graph_example.py`: Python script to build a force-directed graph using `NetworkX` and `Matplotlib`.
 
 ## Requirements
 To run the code in this repository, make sure you have the following Python libraries installed:
